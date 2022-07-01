@@ -18,8 +18,7 @@
 ### To install setup from scratch 
 This is based on <a href="https://github.com/theCode-Breaker/bspwm-dotfiles">theCode-Breaker's dotfiles</a> with some of my own customizations. Please take a look at the script before using it!
 ``` 
-wget https://raw.githubusercontent.com/RexDoisPontoZero/bspwm-dotfiles/main/bspwm.sh 
-bash bspwm.sh
+curl https://raw.githubusercontent.com/RexDoisPontoZero/bspwm-dotfiles/main/bspwm.sh | bash 
 ```
 ### Post-install
 Check out your bspwmrc file with the text editor of your choice (I recommend micro, as presented in the command down bellow). Most problems will be fixed after configuring xrandr.
